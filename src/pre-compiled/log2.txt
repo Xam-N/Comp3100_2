@@ -1,0 +1,1080 @@
+# The system information can be read from 'ds-system.xml'
+t:          5 job     0 (waiting) on # 0 of server small (booting) SCHEDULED
+t:         29 job     1 (waiting) on # 1 of server small (booting) SCHEDULED
+t:         65 job     0 on # 0 of server small RUNNING
+t:         68 job     2 (running) on # 0 of server small (active) SCHEDULED
+t:         68 job     2 on # 0 of server small RUNNING
+t:         89 job     1 on # 1 of server small RUNNING
+t:         96 job     3 (waiting) on # 0 of server medium (booting) SCHEDULED
+t:        110 job     4 (waiting) on # 2 of server small (booting) SCHEDULED
+t:        132 job     5 (waiting) on # 1 of server medium (booting) SCHEDULED
+t:        152 job     6 (waiting) on # 2 of server medium (booting) SCHEDULED
+t:        156 job     3 on # 0 of server medium RUNNING
+t:        170 job     4 on # 2 of server small RUNNING
+t:        172 job     7 (waiting) on # 3 of server medium (booting) SCHEDULED
+t:        182 job     8 (waiting) on # 3 of server small (booting) SCHEDULED
+t:        192 job     5 on # 1 of server medium RUNNING
+t:        206 job     9 (waiting) on # 0 of server large (booting) SCHEDULED
+t:        210 job    10 (waiting) on # 0 of server large (booting) SCHEDULED
+t:        212 job     6 on # 2 of server medium RUNNING
+t:        226 job    11 (waiting) on # 1 of server large (booting) SCHEDULED
+t:        228 job    12 (waiting) on # 0 of server large (booting) SCHEDULED
+t:        231 job    13 (waiting) on # 1 of server large (booting) SCHEDULED
+t:        232 job     7 on # 3 of server medium RUNNING
+t:        242 job     8 on # 3 of server small RUNNING
+t:        266 job     9 on # 0 of server large RUNNING
+t:        266 job    10 on # 0 of server large RUNNING
+t:        266 job    12 on # 0 of server large RUNNING
+t:        286 job    11 on # 1 of server large RUNNING
+t:        286 job    13 on # 1 of server large RUNNING
+t:       1491 job    10 on # 0 of server large COMPLETED
+t:       1509 job    14 (waiting) on # 2 of server large (booting) SCHEDULED
+t:       1569 job    14 on # 2 of server large RUNNING
+t:       1636 job     0 on # 0 of server small COMPLETED
+t:       1774 job     9 on # 0 of server large COMPLETED
+t:       1865 job     1 on # 1 of server small COMPLETED
+t:       1882 job    15 (running) on # 0 of server large (active) SCHEDULED
+t:       1882 job    15 on # 0 of server large RUNNING
+t:       1917 job     6 on # 2 of server medium COMPLETED
+t:       1940 job     3 on # 0 of server medium COMPLETED
+t:       1954 job    16 (waiting) on # 3 of server large (booting) SCHEDULED
+t:       1964 job     2 on # 0 of server small COMPLETED
+t:       2014 job    16 on # 3 of server large RUNNING
+t:       2638 job     7 on # 3 of server medium COMPLETED
+t:       2686 job    17 (waiting) on # 0 of server large (active) SCHEDULED
+t:       2842 job    18 (running) on # 0 of server medium (active) SCHEDULED
+t:       2842 job    18 on # 0 of server medium RUNNING
+t:       2883 job     4 on # 2 of server small COMPLETED
+t:       2899 job     5 on # 1 of server medium COMPLETED
+t:       2937 job    14 on # 2 of server large COMPLETED
+t:       2948 job    19 (running) on # 2 of server large (active) SCHEDULED
+t:       2948 job    19 on # 2 of server large RUNNING
+t:       3006 job    12 on # 0 of server large COMPLETED
+t:       3116 job    13 on # 1 of server large COMPLETED
+t:       3150 job    20 (running) on # 0 of server small (active) SCHEDULED
+t:       3150 job    20 on # 0 of server small RUNNING
+t:       3257 job    21 (running) on # 1 of server medium (active) SCHEDULED
+t:       3257 job    21 on # 1 of server medium RUNNING
+t:       3433 job    15 on # 0 of server large COMPLETED
+t:       3433 job    17 on # 0 of server large RUNNING
+t:       3439 job    22 (running) on # 2 of server medium (active) SCHEDULED
+t:       3439 job    22 on # 2 of server medium RUNNING
+t:       3684 job     8 on # 3 of server small COMPLETED
+t:       3776 job    23 (running) on # 0 of server small (active) SCHEDULED
+t:       3776 job    23 on # 0 of server small RUNNING
+t:       3810 job    24 (running) on # 3 of server medium (active) SCHEDULED
+t:       3810 job    24 on # 3 of server medium RUNNING
+t:       3825 job    11 on # 1 of server large COMPLETED
+t:       3983 job    25 (running) on # 1 of server small (active) SCHEDULED
+t:       3983 job    25 on # 1 of server small RUNNING
+t:       4657 job    19 on # 2 of server large COMPLETED
+t:       4678 job    26 (running) on # 1 of server small (active) SCHEDULED
+t:       4678 job    26 on # 1 of server small RUNNING
+t:       4731 job    22 on # 2 of server medium COMPLETED
+t:       4782 job    27 (running) on # 2 of server medium (active) SCHEDULED
+t:       4782 job    27 on # 2 of server medium RUNNING
+t:       4908 job    28 (running) on # 1 of server large (active) SCHEDULED
+t:       4908 job    28 on # 1 of server large RUNNING
+t:       4974 job    29 (running) on # 2 of server small (active) SCHEDULED
+t:       4974 job    29 on # 2 of server small RUNNING
+t:       5039 job    16 on # 3 of server large COMPLETED
+t:       5124 job    30 (running) on # 1 of server large (active) SCHEDULED
+t:       5124 job    30 on # 1 of server large RUNNING
+t:       5272 job    24 on # 3 of server medium COMPLETED
+t:       5386 job    31 (running) on # 3 of server medium (active) SCHEDULED
+t:       5386 job    31 on # 3 of server medium RUNNING
+t:       5425 job    32 (running) on # 2 of server small (active) SCHEDULED
+t:       5425 job    32 on # 2 of server small RUNNING
+t:       5524 job    25 on # 1 of server small COMPLETED
+t:       5553 job    21 on # 1 of server medium COMPLETED
+t:       5665 job    33 (running) on # 1 of server medium (active) SCHEDULED
+t:       5665 job    33 on # 1 of server medium RUNNING
+t:       5817 job    34 (running) on # 3 of server small (active) SCHEDULED
+t:       5817 job    34 on # 3 of server small RUNNING
+t:       5849 job    23 on # 0 of server small COMPLETED
+t:       6029 job    35 (running) on # 2 of server large (active) SCHEDULED
+t:       6029 job    35 on # 2 of server large RUNNING
+t:       6108 job    27 on # 2 of server medium COMPLETED
+t:       6247 job    17 on # 0 of server large COMPLETED
+t:       6297 job    36 (running) on # 2 of server medium (active) SCHEDULED
+t:       6297 job    36 on # 2 of server medium RUNNING
+t:       6305 job    18 on # 0 of server medium COMPLETED
+t:       6312 job    37 (running) on # 0 of server small (active) SCHEDULED
+t:       6312 job    37 on # 0 of server small RUNNING
+t:       6411 job    38 (running) on # 0 of server medium (active) SCHEDULED
+t:       6411 job    38 on # 0 of server medium RUNNING
+t:       6462 job    20 on # 0 of server small COMPLETED
+t:       6585 job    39 (running) on # 0 of server small (active) SCHEDULED
+t:       6585 job    39 on # 0 of server small RUNNING
+t:       6665 job    40 (running) on # 2 of server medium (active) SCHEDULED
+t:       6665 job    40 on # 2 of server medium RUNNING
+t:       6702 job    41 (running) on # 0 of server large (active) SCHEDULED
+t:       6702 job    41 on # 0 of server large RUNNING
+t:       6848 job    26 on # 1 of server small COMPLETED
+t:       6992 job    30 on # 1 of server large COMPLETED
+t:       7050 job    42 (running) on # 0 of server large (active) SCHEDULED
+t:       7050 job    42 on # 0 of server large RUNNING
+t:       7087 job    43 (running) on # 1 of server large (active) SCHEDULED
+t:       7087 job    43 on # 1 of server large RUNNING
+t:       7087 job    44 (running) on # 1 of server small (active) SCHEDULED
+t:       7087 job    44 on # 1 of server small RUNNING
+t:       7858 job    38 on # 0 of server medium COMPLETED
+t:       7887 job    33 on # 1 of server medium COMPLETED
+t:       7894 job    28 on # 1 of server large COMPLETED
+t:       7918 job    39 on # 0 of server small COMPLETED
+t:       7966 job    45 (running) on # 3 of server large (active) SCHEDULED
+t:       7966 job    45 on # 3 of server large RUNNING
+t:       8129 job    31 on # 3 of server medium COMPLETED
+t:       8134 job    32 on # 2 of server small COMPLETED
+t:       8153 job    29 on # 2 of server small COMPLETED
+t:       8243 job    36 on # 2 of server medium COMPLETED
+t:       8268 job    46 (running) on # 0 of server medium (active) SCHEDULED
+t:       8268 job    46 on # 0 of server medium RUNNING
+t:       8330 job    37 on # 0 of server small COMPLETED
+t:       8544 job    40 on # 2 of server medium COMPLETED
+t:       8560 job    47 (running) on # 0 of server small (active) SCHEDULED
+t:       8560 job    47 on # 0 of server small RUNNING
+t:       8745 job    48 (running) on # 1 of server medium (active) SCHEDULED
+t:       8745 job    48 on # 1 of server medium RUNNING
+t:       8865 job    44 on # 1 of server small COMPLETED
+t:       9038 job    49 (running) on # 2 of server medium (active) SCHEDULED
+t:       9038 job    49 on # 2 of server medium RUNNING
+t:       9172 job    34 on # 3 of server small COMPLETED
+t:       9176 job    43 on # 1 of server large COMPLETED
+t:       9229 job    35 on # 2 of server large COMPLETED
+t:       9375 job    50 (running) on # 1 of server small (active) SCHEDULED
+t:       9375 job    50 on # 1 of server small RUNNING
+t:       9535 job    51 (running) on # 0 of server small (active) SCHEDULED
+t:       9535 job    51 on # 0 of server small RUNNING
+t:       9546 job    52 (running) on # 2 of server small (active) SCHEDULED
+t:       9546 job    52 on # 2 of server small RUNNING
+t:       9864 job    42 on # 0 of server large COMPLETED
+t:       9913 job    45 on # 3 of server large COMPLETED
+t:       9926 job    41 on # 0 of server large COMPLETED
+t:       9935 job    53 (running) on # 3 of server medium (active) SCHEDULED
+t:       9935 job    53 on # 3 of server medium RUNNING
+t:      10071 job    54 (running) on # 0 of server large (active) SCHEDULED
+t:      10071 job    54 on # 0 of server large RUNNING
+t:      10155 job    55 (running) on # 1 of server large (active) SCHEDULED
+t:      10155 job    55 on # 1 of server large RUNNING
+t:      10238 job    56 (running) on # 0 of server large (active) SCHEDULED
+t:      10238 job    56 on # 0 of server large RUNNING
+t:      10275 job    57 (running) on # 2 of server large (active) SCHEDULED
+t:      10275 job    57 on # 2 of server large RUNNING
+t:      10810 job    46 on # 0 of server medium COMPLETED
+t:      10905 job    51 on # 0 of server small COMPLETED
+t:      11013 job    58 (running) on # 3 of server large (active) SCHEDULED
+t:      11013 job    58 on # 3 of server large RUNNING
+t:      11056 job    47 on # 0 of server small COMPLETED
+t:      11431 job    49 on # 2 of server medium COMPLETED
+t:      11438 job    52 on # 2 of server small COMPLETED
+t:      11461 job    59 (running) on # 0 of server small (active) SCHEDULED
+t:      11461 job    59 on # 0 of server small RUNNING
+t:      11497 job    60 (running) on # 0 of server small (active) SCHEDULED
+t:      11497 job    60 on # 0 of server small RUNNING
+t:      11682 job    48 on # 1 of server medium COMPLETED
+t:      11722 job    61 (running) on # 2 of server small (active) SCHEDULED
+t:      11722 job    61 on # 2 of server small RUNNING
+t:      11982 job    57 on # 2 of server large COMPLETED
+t:      11994 job    62 (running) on # 3 of server small (active) SCHEDULED
+t:      11994 job    62 on # 3 of server small RUNNING
+t:      12181 job    55 on # 1 of server large COMPLETED
+t:      12225 job    50 on # 1 of server small COMPLETED
+t:      12452 job    63 (running) on # 1 of server small (active) SCHEDULED
+t:      12452 job    63 on # 1 of server small RUNNING
+t:      12559 job    64 (running) on # 0 of server medium (active) SCHEDULED
+t:      12559 job    64 on # 0 of server medium RUNNING
+t:      12596 job    58 on # 3 of server large COMPLETED
+t:      12597 job    53 on # 3 of server medium COMPLETED
+t:      12709 job    65 (running) on # 0 of server medium (active) SCHEDULED
+t:      12709 job    65 on # 0 of server medium RUNNING
+t:      12865 job    66 (running) on # 1 of server medium (active) SCHEDULED
+t:      12865 job    66 on # 1 of server medium RUNNING
+t:      12886 job    54 on # 0 of server large COMPLETED
+t:      13038 job    67 (running) on # 0 of server medium (active) SCHEDULED
+t:      13038 job    67 on # 0 of server medium RUNNING
+t:      13264 job    59 on # 0 of server small COMPLETED
+t:      13377 job    68 (running) on # 0 of server small (active) SCHEDULED
+t:      13377 job    68 on # 0 of server small RUNNING
+t:      13470 job    56 on # 0 of server large COMPLETED
+t:      13505 job    61 on # 2 of server small COMPLETED
+t:      13614 job    62 on # 3 of server small COMPLETED
+t:      13776 job    60 on # 0 of server small COMPLETED
+t:      13812 job    69 (running) on # 0 of server small (active) SCHEDULED
+t:      13812 job    69 on # 0 of server small RUNNING
+t:      13897 job    70 (running) on # 2 of server small (active) SCHEDULED
+t:      13897 job    70 on # 2 of server small RUNNING
+t:      14022 job    71 (running) on # 3 of server small (active) SCHEDULED
+t:      14022 job    71 on # 3 of server small RUNNING
+t:      14272 job    72 (running) on # 2 of server medium (active) SCHEDULED
+t:      14272 job    72 on # 2 of server medium RUNNING
+t:      14553 job    66 on # 1 of server medium COMPLETED
+t:      14682 job    73 (running) on # 1 of server medium (active) SCHEDULED
+t:      14682 job    73 on # 1 of server medium RUNNING
+t:      14814 job    74 (running) on # 3 of server medium (active) SCHEDULED
+t:      14814 job    74 on # 3 of server medium RUNNING
+t:      14838 job    75 (running) on # 0 of server large (active) SCHEDULED
+t:      14838 job    75 on # 0 of server large RUNNING
+t:      14970 job    76 (running) on # 3 of server medium (active) SCHEDULED
+t:      14970 job    76 on # 3 of server medium RUNNING
+t:      15297 job    77 (running) on # 0 of server large (active) SCHEDULED
+t:      15297 job    77 on # 0 of server large RUNNING
+t:      15359 job    69 on # 0 of server small COMPLETED
+t:      15366 job    78 (running) on # 1 of server large (active) SCHEDULED
+t:      15366 job    78 on # 1 of server large RUNNING
+t:      15681 job    65 on # 0 of server medium COMPLETED
+t:      15754 job    79 (running) on # 0 of server small (active) SCHEDULED
+t:      15754 job    79 on # 0 of server small RUNNING
+t:      15813 job    67 on # 0 of server medium COMPLETED
+t:      15819 job    68 on # 0 of server small COMPLETED
+t:      15873 job    64 on # 0 of server medium COMPLETED
+t:      15891 job    63 on # 1 of server small COMPLETED
+t:      15918 job    71 on # 3 of server small COMPLETED
+t:      16098 job    80 (running) on # 1 of server small (active) SCHEDULED
+t:      16098 job    80 on # 1 of server small RUNNING
+t:      16188 job    81 (running) on # 3 of server small (active) SCHEDULED
+t:      16188 job    81 on # 3 of server small RUNNING
+t:      16193 job    70 on # 2 of server small COMPLETED
+t:      16356 job    82 (running) on # 0 of server small (active) SCHEDULED
+t:      16356 job    82 on # 0 of server small RUNNING
+t:      16505 job    74 on # 3 of server medium COMPLETED
+t:      16643 job    83 (running) on # 2 of server small (active) SCHEDULED
+t:      16643 job    83 on # 2 of server small RUNNING
+t:      16653 job    84 (running) on # 0 of server medium (active) SCHEDULED
+t:      16653 job    84 on # 0 of server medium RUNNING
+t:      16660 job    85 (running) on # 3 of server medium (active) SCHEDULED
+t:      16660 job    85 on # 3 of server medium RUNNING
+t:      16925 job    86 (running) on # 1 of server large (active) SCHEDULED
+t:      16925 job    86 on # 1 of server large RUNNING
+t:      16991 job    76 on # 3 of server medium COMPLETED
+t:      17004 job    87 (running) on # 3 of server medium (active) SCHEDULED
+t:      17004 job    87 on # 3 of server medium RUNNING
+t:      17086 job    77 on # 0 of server large COMPLETED
+t:      17096 job    72 on # 2 of server medium COMPLETED
+t:      17245 job    88 (running) on # 2 of server medium (active) SCHEDULED
+t:      17245 job    88 on # 2 of server medium RUNNING
+t:      17471 job    89 (running) on # 0 of server large (active) SCHEDULED
+t:      17471 job    89 on # 0 of server large RUNNING
+t:      17668 job    75 on # 0 of server large COMPLETED
+t:      17701 job    80 on # 1 of server small COMPLETED
+t:      17730 job    90 (running) on # 1 of server small (active) SCHEDULED
+t:      17730 job    90 on # 1 of server small RUNNING
+t:      17752 job    82 on # 0 of server small COMPLETED
+t:      17845 job    79 on # 0 of server small COMPLETED
+t:      17883 job    91 (running) on # 0 of server large (active) SCHEDULED
+t:      17883 job    91 on # 0 of server large RUNNING
+t:      18037 job    92 (running) on # 0 of server small (active) SCHEDULED
+t:      18037 job    92 on # 0 of server small RUNNING
+t:      18044 job    85 on # 3 of server medium COMPLETED
+t:      18101 job    73 on # 1 of server medium COMPLETED
+t:      18194 job    81 on # 3 of server small COMPLETED
+t:      18274 job    93 (running) on # 2 of server large (active) SCHEDULED
+t:      18274 job    93 on # 2 of server large RUNNING
+t:      18298 job    83 on # 2 of server small COMPLETED
+t:      18298 job    94 (running) on # 1 of server medium (active) SCHEDULED
+t:      18298 job    94 on # 1 of server medium RUNNING
+t:      18471 job    78 on # 1 of server large COMPLETED
+t:      18500 job    95 (running) on # 1 of server large (active) SCHEDULED
+t:      18500 job    95 on # 1 of server large RUNNING
+t:      18668 job    96 (running) on # 3 of server medium (active) SCHEDULED
+t:      18668 job    96 on # 3 of server medium RUNNING
+t:      18688 job    97 (running) on # 3 of server large (active) SCHEDULED
+t:      18688 job    97 on # 3 of server large RUNNING
+t:      18816 job    89 on # 0 of server large COMPLETED
+t:      18838 job    84 on # 0 of server medium COMPLETED
+t:      18975 job    98 (running) on # 0 of server medium (active) SCHEDULED
+t:      18975 job    98 on # 0 of server medium RUNNING
+t:      19109 job    90 on # 1 of server small COMPLETED
+t:      19159 job    87 on # 3 of server medium COMPLETED
+t:      19276 job    99 (running) on # 0 of server large (active) SCHEDULED
+t:      19276 job    99 on # 0 of server large RUNNING
+t:      19500 job   100 (running) on # 3 of server large (active) SCHEDULED
+t:      19500 job   100 on # 3 of server large RUNNING
+t:      19685 job    92 on # 0 of server small COMPLETED
+t:      19858 job    93 on # 2 of server large COMPLETED
+t:      20076 job    86 on # 1 of server large COMPLETED
+t:      20080 job   101 (running) on # 0 of server small (active) SCHEDULED
+t:      20080 job   101 on # 0 of server small RUNNING
+t:      20277 job    88 on # 2 of server medium COMPLETED
+t:      20339 job    97 on # 3 of server large COMPLETED
+t:      20359 job   102 (running) on # 1 of server small (active) SCHEDULED
+t:      20359 job   102 on # 1 of server small RUNNING
+t:      20592 job   103 (running) on # 2 of server small (active) SCHEDULED
+t:      20592 job   103 on # 2 of server small RUNNING
+t:      20685 job    91 on # 0 of server large COMPLETED
+t:      20695 job   104 (running) on # 2 of server medium (active) SCHEDULED
+t:      20695 job   104 on # 2 of server medium RUNNING
+t:      20787 job   105 (running) on # 0 of server small (active) SCHEDULED
+t:      20787 job   105 on # 0 of server small RUNNING
+t:      20897 job    96 on # 3 of server medium COMPLETED
+t:      21011 job   106 (running) on # 3 of server small (active) SCHEDULED
+t:      21011 job   106 on # 3 of server small RUNNING
+t:      21069 job   107 (running) on # 3 of server medium (active) SCHEDULED
+t:      21069 job   107 on # 3 of server medium RUNNING
+t:      21090 job   108 (running) on # 0 of server large (active) SCHEDULED
+t:      21090 job   108 on # 0 of server large RUNNING
+t:      21137 job   109 (running) on # 0 of server large (active) SCHEDULED
+t:      21137 job   109 on # 0 of server large RUNNING
+t:      21218 job    95 on # 1 of server large COMPLETED
+t:      21357 job    94 on # 1 of server medium COMPLETED
+t:      21376 job   110 (running) on # 1 of server medium (active) SCHEDULED
+t:      21376 job   110 on # 1 of server medium RUNNING
+t:      21384 job   100 on # 3 of server large COMPLETED
+t:      21430 job    98 on # 0 of server medium COMPLETED
+t:      21592 job   111 (running) on # 1 of server large (active) SCHEDULED
+t:      21592 job   111 on # 1 of server large RUNNING
+t:      21924 job   112 (running) on # 0 of server medium (active) SCHEDULED
+t:      21924 job   112 on # 0 of server medium RUNNING
+t:      22127 job   113 (running) on # 0 of server large (active) SCHEDULED
+t:      22127 job   113 on # 0 of server large RUNNING
+t:      22158 job   101 on # 0 of server small COMPLETED
+t:      22180 job   114 (running) on # 2 of server large (active) SCHEDULED
+t:      22180 job   114 on # 2 of server large RUNNING
+t:      22504 job   109 on # 0 of server large COMPLETED
+t:      22581 job   105 on # 0 of server small COMPLETED
+t:      22676 job   102 on # 1 of server small COMPLETED
+t:      22755 job    99 on # 0 of server large COMPLETED
+t:      22813 job   115 (running) on # 0 of server small (active) SCHEDULED
+t:      22813 job   115 on # 0 of server small RUNNING
+t:      22873 job   116 (running) on # 1 of server small (active) SCHEDULED
+t:      22873 job   116 on # 1 of server small RUNNING
+t:      22922 job   106 on # 3 of server small COMPLETED
+t:      22957 job   107 on # 3 of server medium COMPLETED
+t:      23014 job   108 on # 0 of server large COMPLETED
+t:      23202 job   117 (running) on # 3 of server small (active) SCHEDULED
+t:      23202 job   117 on # 3 of server small RUNNING
+t:      23403 job   118 (running) on # 3 of server medium (active) SCHEDULED
+t:      23403 job   118 on # 3 of server medium RUNNING
+t:      23688 job   111 on # 1 of server large COMPLETED
+t:      23801 job   119 (running) on # 1 of server large (active) SCHEDULED
+t:      23801 job   119 on # 1 of server large RUNNING
+t:      23822 job   110 on # 1 of server medium COMPLETED
+t:      23889 job   120 (running) on # 1 of server medium (active) SCHEDULED
+t:      23889 job   120 on # 1 of server medium RUNNING
+t:      23958 job   104 on # 2 of server medium COMPLETED
+t:      24139 job   121 (running) on # 2 of server medium (active) SCHEDULED
+t:      24139 job   121 on # 2 of server medium RUNNING
+t:      24159 job   103 on # 2 of server small COMPLETED
+t:      24342 job   122 (running) on # 2 of server small (active) SCHEDULED
+t:      24342 job   122 on # 2 of server small RUNNING
+t:      24585 job   123 (running) on # 2 of server small (active) SCHEDULED
+t:      24585 job   123 on # 2 of server small RUNNING
+t:      24790 job   124 (running) on # 1 of server medium (active) SCHEDULED
+t:      24790 job   124 on # 1 of server medium RUNNING
+t:      24809 job   117 on # 3 of server small COMPLETED
+t:      25024 job   112 on # 0 of server medium COMPLETED
+t:      25086 job   125 (running) on # 3 of server large (active) SCHEDULED
+t:      25086 job   125 on # 3 of server large RUNNING
+t:      25261 job   114 on # 2 of server large COMPLETED
+t:      25416 job   126 (running) on # 0 of server medium (active) SCHEDULED
+t:      25416 job   126 on # 0 of server medium RUNNING
+t:      25451 job   120 on # 1 of server medium COMPLETED
+t:      25509 job   116 on # 1 of server small COMPLETED
+t:      25530 job   113 on # 0 of server large COMPLETED
+t:      25655 job   121 on # 2 of server medium COMPLETED
+t:      25870 job   127 (running) on # 1 of server medium (active) SCHEDULED
+t:      25870 job   127 on # 1 of server medium RUNNING
+t:      26062 job   119 on # 1 of server large COMPLETED
+t:      26198 job   115 on # 0 of server small COMPLETED
+t:      26286 job   128 (running) on # 0 of server large (active) SCHEDULED
+t:      26286 job   128 on # 0 of server large RUNNING
+t:      26430 job   129 (running) on # 0 of server small (active) SCHEDULED
+t:      26430 job   129 on # 0 of server small RUNNING
+t:      26466 job   122 on # 2 of server small COMPLETED
+t:      26490 job   118 on # 3 of server medium COMPLETED
+t:      26859 job   130 (running) on # 2 of server medium (active) SCHEDULED
+t:      26859 job   130 on # 2 of server medium RUNNING
+t:      27129 job   131 (running) on # 3 of server medium (active) SCHEDULED
+t:      27129 job   131 on # 3 of server medium RUNNING
+t:      27198 job   132 (running) on # 1 of server small (active) SCHEDULED
+t:      27198 job   132 on # 1 of server small RUNNING
+t:      27247 job   133 (running) on # 3 of server small (active) SCHEDULED
+t:      27247 job   133 on # 3 of server small RUNNING
+t:      27625 job   134 (running) on # 0 of server large (active) SCHEDULED
+t:      27625 job   134 on # 0 of server large RUNNING
+t:      27708 job   129 on # 0 of server small COMPLETED
+t:      27753 job   123 on # 2 of server small COMPLETED
+t:      27894 job   124 on # 1 of server medium COMPLETED
+t:      28117 job   135 (running) on # 0 of server small (active) SCHEDULED
+t:      28117 job   135 on # 0 of server small RUNNING
+t:      28288 job   136 (running) on # 0 of server small (active) SCHEDULED
+t:      28288 job   136 on # 0 of server small RUNNING
+t:      28528 job   125 on # 3 of server large COMPLETED
+t:      28550 job   133 on # 3 of server small COMPLETED
+t:      28601 job   137 (running) on # 1 of server large (active) SCHEDULED
+t:      28601 job   137 on # 1 of server large RUNNING
+t:      28712 job   138 (running) on # 1 of server large (active) SCHEDULED
+t:      28712 job   138 on # 1 of server large RUNNING
+t:      28782 job   126 on # 0 of server medium COMPLETED
+t:      28970 job   139 (running) on # 0 of server medium (active) SCHEDULED
+t:      28970 job   139 on # 0 of server medium RUNNING
+t:      29024 job   140 (running) on # 2 of server small (active) SCHEDULED
+t:      29024 job   140 on # 2 of server small RUNNING
+t:      29118 job   134 on # 0 of server large COMPLETED
+t:      29322 job   127 on # 1 of server medium COMPLETED
+t:      29349 job   141 (running) on # 2 of server small (active) SCHEDULED
+t:      29349 job   141 on # 2 of server small RUNNING
+t:      29368 job   142 (running) on # 1 of server medium (active) SCHEDULED
+t:      29368 job   142 on # 1 of server medium RUNNING
+t:      29385 job   132 on # 1 of server small COMPLETED
+t:      29578 job   143 (running) on # 1 of server small (active) SCHEDULED
+t:      29578 job   143 on # 1 of server small RUNNING
+t:      29647 job   128 on # 0 of server large COMPLETED
+t:      29741 job   144 (running) on # 0 of server large (active) SCHEDULED
+t:      29741 job   144 on # 0 of server large RUNNING
+t:      29847 job   145 (running) on # 0 of server large (active) SCHEDULED
+t:      29847 job   145 on # 0 of server large RUNNING
+t:      30095 job   136 on # 0 of server small COMPLETED
+t:      30237 job   130 on # 2 of server medium COMPLETED
+t:      30338 job   146 (running) on # 2 of server large (active) SCHEDULED
+t:      30338 job   146 on # 2 of server large RUNNING
+t:      30470 job   131 on # 3 of server medium COMPLETED
+t:      30606 job   147 (running) on # 0 of server small (active) SCHEDULED
+t:      30606 job   147 on # 0 of server small RUNNING
+t:      30684 job   141 on # 2 of server small COMPLETED
+t:      30731 job   148 (running) on # 2 of server medium (active) SCHEDULED
+t:      30731 job   148 on # 2 of server medium RUNNING
+t:      31050 job   139 on # 0 of server medium COMPLETED
+t:      31111 job   137 on # 1 of server large COMPLETED
+t:      31264 job   149 (running) on # 0 of server medium (active) SCHEDULED
+t:      31264 job   149 on # 0 of server medium RUNNING
+t:      31385 job   145 on # 0 of server large COMPLETED
+t:      31510 job   150 (running) on # 2 of server small (active) SCHEDULED
+t:      31510 job   150 on # 2 of server small RUNNING
+t:      31539 job   140 on # 2 of server small COMPLETED
+t:      31565 job   143 on # 1 of server small COMPLETED
+t:      31607 job   135 on # 0 of server small COMPLETED
+t:      31807 job   138 on # 1 of server large COMPLETED
+t:      31973 job   151 (running) on # 1 of server small (active) SCHEDULED
+t:      31973 job   151 on # 1 of server small RUNNING
+t:      32149 job   142 on # 1 of server medium COMPLETED
+t:      32152 job   144 on # 0 of server large COMPLETED
+t:      32210 job   146 on # 2 of server large COMPLETED
+t:      32456 job   152 (running) on # 0 of server small (active) SCHEDULED
+t:      32456 job   152 on # 0 of server small RUNNING
+t:      32747 job   153 (running) on # 2 of server small (active) SCHEDULED
+t:      32747 job   153 on # 2 of server small RUNNING
+t:      32756 job   147 on # 0 of server small COMPLETED
+t:      33291 job   154 (running) on # 3 of server small (active) SCHEDULED
+t:      33291 job   154 on # 3 of server small RUNNING
+t:      33399 job   155 (running) on # 0 of server small (active) SCHEDULED
+t:      33399 job   155 on # 0 of server small RUNNING
+t:      33406 job   151 on # 1 of server small COMPLETED
+t:      33848 job   149 on # 0 of server medium COMPLETED
+t:      33955 job   156 (running) on # 1 of server small (active) SCHEDULED
+t:      33955 job   156 on # 1 of server small RUNNING
+t:      34052 job   148 on # 2 of server medium COMPLETED
+t:      34157 job   153 on # 2 of server small COMPLETED
+t:      34271 job   150 on # 2 of server small COMPLETED
+t:      34290 job   157 (running) on # 1 of server small (active) SCHEDULED
+t:      34290 job   157 on # 1 of server small RUNNING
+t:      34365 job   158 (running) on # 0 of server medium (active) SCHEDULED
+t:      34365 job   158 on # 0 of server medium RUNNING
+t:      34590 job   152 on # 0 of server small COMPLETED
+t:      34705 job   159 (running) on # 1 of server medium (active) SCHEDULED
+t:      34705 job   159 on # 1 of server medium RUNNING
+t:      35061 job   160 (running) on # 2 of server small (active) SCHEDULED
+t:      35061 job   160 on # 2 of server small RUNNING
+t:      35233 job   161 (running) on # 2 of server medium (active) SCHEDULED
+t:      35233 job   161 on # 2 of server medium RUNNING
+t:      35271 job   162 (running) on # 3 of server medium (active) SCHEDULED
+t:      35271 job   162 on # 3 of server medium RUNNING
+t:      35455 job   155 on # 0 of server small COMPLETED
+t:      35737 job   157 on # 1 of server small COMPLETED
+t:      35803 job   163 (running) on # 0 of server large (active) SCHEDULED
+t:      35803 job   163 on # 0 of server large RUNNING
+t:      36040 job   164 (running) on # 0 of server large (active) SCHEDULED
+t:      36040 job   164 on # 0 of server large RUNNING
+t:      36119 job   165 (running) on # 1 of server large (active) SCHEDULED
+t:      36119 job   165 on # 1 of server large RUNNING
+t:      36168 job   166 (running) on # 0 of server small (active) SCHEDULED
+t:      36168 job   166 on # 0 of server small RUNNING
+t:      36271 job   156 on # 1 of server small COMPLETED
+t:      36612 job   154 on # 3 of server small COMPLETED
+t:      36712 job   167 (running) on # 1 of server large (active) SCHEDULED
+t:      36712 job   167 on # 1 of server large RUNNING
+t:      36739 job   168 (running) on # 2 of server large (active) SCHEDULED
+t:      36739 job   168 on # 2 of server large RUNNING
+t:      36815 job   159 on # 1 of server medium COMPLETED
+t:      37121 job   169 (running) on # 1 of server medium (active) SCHEDULED
+t:      37121 job   169 on # 1 of server medium RUNNING
+t:      37380 job   170 (running) on # 2 of server large (active) SCHEDULED
+t:      37380 job   170 on # 2 of server large RUNNING
+t:      37512 job   171 (running) on # 1 of server small (active) SCHEDULED
+t:      37512 job   171 on # 1 of server small RUNNING
+t:      37726 job   161 on # 2 of server medium COMPLETED
+t:      37737 job   172 (running) on # 3 of server small (active) SCHEDULED
+t:      37737 job   172 on # 3 of server small RUNNING
+t:      37756 job   158 on # 0 of server medium COMPLETED
+t:      37790 job   162 on # 3 of server medium COMPLETED
+t:      37799 job   165 on # 1 of server large COMPLETED
+t:      38055 job   173 (running) on # 0 of server medium (active) SCHEDULED
+t:      38055 job   173 on # 0 of server medium RUNNING
+t:      38426 job   160 on # 2 of server small COMPLETED
+t:      38484 job   174 (running) on # 2 of server medium (active) SCHEDULED
+t:      38484 job   174 on # 2 of server medium RUNNING
+t:      38731 job   175 (running) on # 2 of server small (active) SCHEDULED
+t:      38731 job   175 on # 2 of server small RUNNING
+t:      38898 job   163 on # 0 of server large COMPLETED
+t:      39094 job   166 on # 0 of server small COMPLETED
+t:      39105 job   168 on # 2 of server large COMPLETED
+t:      39133 job   172 on # 3 of server small COMPLETED
+t:      39173 job   176 (running) on # 3 of server large (active) SCHEDULED
+t:      39173 job   176 on # 3 of server large RUNNING
+t:      39349 job   164 on # 0 of server large COMPLETED
+t:      39691 job   177 (running) on # 0 of server small (active) SCHEDULED
+t:      39691 job   177 on # 0 of server small RUNNING
+t:      39827 job   167 on # 1 of server large COMPLETED
+t:      40062 job   178 (running) on # 3 of server small (active) SCHEDULED
+t:      40062 job   178 on # 3 of server small RUNNING
+t:      40083 job   170 on # 2 of server large COMPLETED
+t:      40270 job   169 on # 1 of server medium COMPLETED
+t:      40429 job   179 (running) on # 0 of server medium (active) SCHEDULED
+t:      40429 job   179 on # 0 of server medium RUNNING
+t:      40520 job   173 on # 0 of server medium COMPLETED
+t:      40760 job   180 (running) on # 1 of server medium (active) SCHEDULED
+t:      40760 job   180 on # 1 of server medium RUNNING
+t:      40816 job   171 on # 1 of server small COMPLETED
+t:      41102 job   181 (running) on # 0 of server small (active) SCHEDULED
+t:      41102 job   181 on # 0 of server small RUNNING
+t:      41512 job   174 on # 2 of server medium COMPLETED
+t:      41518 job   182 (running) on # 2 of server medium (active) SCHEDULED
+t:      41518 job   182 on # 2 of server medium RUNNING
+t:      41577 job   183 (running) on # 0 of server large (active) SCHEDULED
+t:      41577 job   183 on # 0 of server large RUNNING
+t:      41763 job   175 on # 2 of server small COMPLETED
+t:      42024 job   178 on # 3 of server small COMPLETED
+t:      42026 job   184 (running) on # 1 of server small (active) SCHEDULED
+t:      42026 job   184 on # 1 of server small RUNNING
+t:      42075 job   176 on # 3 of server large COMPLETED
+t:      42152 job   177 on # 0 of server small COMPLETED
+t:      42261 job   185 (running) on # 0 of server small (active) SCHEDULED
+t:      42261 job   185 on # 0 of server small RUNNING
+t:      42624 job   180 on # 1 of server medium COMPLETED
+t:      42675 job   186 (running) on # 1 of server large (active) SCHEDULED
+t:      42675 job   186 on # 1 of server large RUNNING
+t:      42681 job   187 (running) on # 2 of server large (active) SCHEDULED
+t:      42681 job   187 on # 2 of server large RUNNING
+t:      43052 job   188 (running) on # 1 of server medium (active) SCHEDULED
+t:      43052 job   188 on # 1 of server medium RUNNING
+t:      43224 job   189 (running) on # 2 of server small (active) SCHEDULED
+t:      43224 job   189 on # 2 of server small RUNNING
+t:      43337 job   181 on # 0 of server small COMPLETED
+t:      43364 job   190 (running) on # 3 of server medium (active) SCHEDULED
+t:      43364 job   190 on # 3 of server medium RUNNING
+t:      43396 job   191 (running) on # 3 of server large (active) SCHEDULED
+t:      43396 job   191 on # 3 of server large RUNNING
+t:      43651 job   179 on # 0 of server medium COMPLETED
+t:      44177 job   185 on # 0 of server small COMPLETED
+t:      44318 job   192 (waiting) on # 0 of server large (active) SCHEDULED
+t:      44567 job   182 on # 2 of server medium COMPLETED
+t:      44990 job   183 on # 0 of server large COMPLETED
+t:      44990 job   192 on # 0 of server large RUNNING
+t:      45044 job   184 on # 1 of server small COMPLETED
+t:      45049 job   193 (running) on # 0 of server small (active) SCHEDULED
+t:      45049 job   193 on # 0 of server small RUNNING
+t:      45075 job   194 (running) on # 1 of server small (active) SCHEDULED
+t:      45075 job   194 on # 1 of server small RUNNING
+t:      45206 job   195 (running) on # 0 of server medium (active) SCHEDULED
+t:      45206 job   195 on # 0 of server medium RUNNING
+t:      45234 job   186 on # 1 of server large COMPLETED
+t:      45262 job   196 (running) on # 1 of server large (active) SCHEDULED
+t:      45262 job   196 on # 1 of server large RUNNING
+t:      45717 job   187 on # 2 of server large COMPLETED
+t:      45734 job   188 on # 1 of server medium COMPLETED
+t:      45828 job   197 (running) on # 1 of server small (active) SCHEDULED
+t:      45828 job   197 on # 1 of server small RUNNING
+t:      45963 job   189 on # 2 of server small COMPLETED
+t:      46153 job   198 (running) on # 2 of server small (active) SCHEDULED
+t:      46153 job   198 on # 2 of server small RUNNING
+t:      46538 job   199 (running) on # 3 of server small (active) SCHEDULED
+t:      46538 job   199 on # 3 of server small RUNNING
+t:      46689 job   191 on # 3 of server large COMPLETED
+t:      46947 job   190 on # 3 of server medium COMPLETED
+t:      46997 job   200 (running) on # 1 of server medium (active) SCHEDULED
+t:      46997 job   200 on # 1 of server medium RUNNING
+t:      47087 job   201 (running) on # 1 of server medium (active) SCHEDULED
+t:      47087 job   201 on # 1 of server medium RUNNING
+t:      47173 job   196 on # 1 of server large COMPLETED
+t:      47312 job   202 (running) on # 2 of server medium (active) SCHEDULED
+t:      47312 job   202 on # 2 of server medium RUNNING
+t:      47441 job   195 on # 0 of server medium COMPLETED
+t:      47454 job   194 on # 1 of server small COMPLETED
+t:      47804 job   203 (running) on # 1 of server small (active) SCHEDULED
+t:      47804 job   203 on # 1 of server small RUNNING
+t:      47934 job   204 (running) on # 0 of server medium (active) SCHEDULED
+t:      47934 job   204 on # 0 of server medium RUNNING
+t:      47951 job   192 on # 0 of server large COMPLETED
+t:      48146 job   205 (running) on # 3 of server medium (active) SCHEDULED
+t:      48146 job   205 on # 3 of server medium RUNNING
+t:      48223 job   193 on # 0 of server small COMPLETED
+t:      48229 job   198 on # 2 of server small COMPLETED
+t:      48434 job   197 on # 1 of server small COMPLETED
+t:      48513 job   202 on # 2 of server medium COMPLETED
+t:      48605 job   206 (running) on # 2 of server medium (active) SCHEDULED
+t:      48605 job   206 on # 2 of server medium RUNNING
+t:      48825 job   207 (running) on # 0 of server small (active) SCHEDULED
+t:      48825 job   207 on # 0 of server small RUNNING
+t:      48941 job   208 (running) on # 0 of server small (active) SCHEDULED
+t:      48941 job   208 on # 0 of server small RUNNING
+t:      49039 job   199 on # 3 of server small COMPLETED
+t:      49057 job   200 on # 1 of server medium COMPLETED
+t:      49214 job   209 (running) on # 0 of server large (active) SCHEDULED
+t:      49214 job   209 on # 0 of server large RUNNING
+t:      49371 job   210 (running) on # 2 of server small (active) SCHEDULED
+t:      49371 job   210 on # 2 of server small RUNNING
+t:      49389 job   205 on # 3 of server medium COMPLETED
+t:      49568 job   211 (running) on # 3 of server small (active) SCHEDULED
+t:      49568 job   211 on # 3 of server small RUNNING
+t:      49889 job   201 on # 1 of server medium COMPLETED
+t:      49890 job   212 (running) on # 1 of server medium (active) SCHEDULED
+t:      49890 job   212 on # 1 of server medium RUNNING
+t:      49896 job   206 on # 2 of server medium COMPLETED
+t:      49949 job   213 (running) on # 1 of server small (active) SCHEDULED
+t:      49949 job   213 on # 1 of server small RUNNING
+t:      50253 job   203 on # 1 of server small COMPLETED
+t:      50368 job   214 (running) on # 2 of server medium (active) SCHEDULED
+t:      50368 job   214 on # 2 of server medium RUNNING
+t:      50502 job   207 on # 0 of server small COMPLETED
+t:      50596 job   210 on # 2 of server small COMPLETED
+t:      50750 job   215 (running) on # 2 of server small (active) SCHEDULED
+t:      50750 job   215 on # 2 of server small RUNNING
+t:      50913 job   216 (running) on # 1 of server large (active) SCHEDULED
+t:      50913 job   216 on # 1 of server large RUNNING
+t:      51216 job   217 (running) on # 1 of server medium (active) SCHEDULED
+t:      51216 job   217 on # 1 of server medium RUNNING
+t:      51320 job   204 on # 0 of server medium COMPLETED
+t:      51331 job   213 on # 1 of server small COMPLETED
+t:      51625 job   218 (running) on # 2 of server large (active) SCHEDULED
+t:      51625 job   218 on # 2 of server large RUNNING
+t:      51862 job   219 (running) on # 0 of server medium (active) SCHEDULED
+t:      51862 job   219 on # 0 of server medium RUNNING
+t:      51881 job   214 on # 2 of server medium COMPLETED
+t:      51948 job   220 (running) on # 3 of server large (active) SCHEDULED
+t:      51948 job   220 on # 3 of server large RUNNING
+t:      51970 job   208 on # 0 of server small COMPLETED
+t:      52127 job   211 on # 3 of server small COMPLETED
+t:      52150 job   221 (running) on # 2 of server medium (active) SCHEDULED
+t:      52150 job   221 on # 2 of server medium RUNNING
+t:      52336 job   212 on # 1 of server medium COMPLETED
+t:      52452 job   222 (running) on # 0 of server small (active) SCHEDULED
+t:      52452 job   222 on # 0 of server small RUNNING
+t:      52592 job   209 on # 0 of server large COMPLETED
+t:      52762 job   223 (running) on # 0 of server small (active) SCHEDULED
+t:      52762 job   223 on # 0 of server small RUNNING
+t:      53130 job   224 (running) on # 1 of server small (active) SCHEDULED
+t:      53130 job   224 on # 1 of server small RUNNING
+t:      53249 job   225 (running) on # 3 of server small (active) SCHEDULED
+t:      53249 job   225 on # 3 of server small RUNNING
+t:      53291 job   220 on # 3 of server large COMPLETED
+t:      53622 job   226 (running) on # 1 of server medium (active) SCHEDULED
+t:      53622 job   226 on # 1 of server medium RUNNING
+t:      53648 job   215 on # 2 of server small COMPLETED
+t:      53931 job   227 (running) on # 3 of server medium (active) SCHEDULED
+t:      53931 job   227 on # 3 of server medium RUNNING
+t:      54000 job   219 on # 0 of server medium COMPLETED
+t:      54112 job   228 (running) on # 0 of server medium (active) SCHEDULED
+t:      54112 job   228 on # 0 of server medium RUNNING
+t:      54258 job   216 on # 1 of server large COMPLETED
+t:      54501 job   229 (running) on # 2 of server small (active) SCHEDULED
+t:      54501 job   229 on # 2 of server small RUNNING
+t:      54544 job   218 on # 2 of server large COMPLETED
+t:      54607 job   222 on # 0 of server small COMPLETED
+t:      54608 job   221 on # 2 of server medium COMPLETED
+t:      54760 job   230 (running) on # 2 of server medium (active) SCHEDULED
+t:      54760 job   230 on # 2 of server medium RUNNING
+t:      54792 job   217 on # 1 of server medium COMPLETED
+t:      54969 job   231 (running) on # 0 of server small (active) SCHEDULED
+t:      54969 job   231 on # 0 of server small RUNNING
+t:      55088 job   232 (running) on # 0 of server large (active) SCHEDULED
+t:      55088 job   232 on # 0 of server large RUNNING
+t:      55156 job   224 on # 1 of server small COMPLETED
+t:      55389 job   233 (running) on # 0 of server large (active) SCHEDULED
+t:      55389 job   233 on # 0 of server large RUNNING
+t:      55566 job   223 on # 0 of server small COMPLETED
+t:      55630 job   234 (running) on # 1 of server small (active) SCHEDULED
+t:      55630 job   234 on # 1 of server small RUNNING
+t:      55748 job   228 on # 0 of server medium COMPLETED
+t:      55856 job   229 on # 2 of server small COMPLETED
+t:      55990 job   235 (running) on # 0 of server medium (active) SCHEDULED
+t:      55990 job   235 on # 0 of server medium RUNNING
+t:      56156 job   225 on # 3 of server small COMPLETED
+t:      56164 job   236 (running) on # 1 of server large (active) SCHEDULED
+t:      56164 job   236 on # 1 of server large RUNNING
+t:      56292 job   231 on # 0 of server small COMPLETED
+t:      56299 job   237 (running) on # 0 of server small (active) SCHEDULED
+t:      56299 job   237 on # 0 of server small RUNNING
+t:      56615 job   238 (running) on # 2 of server small (active) SCHEDULED
+t:      56615 job   238 on # 2 of server small RUNNING
+t:      56714 job   239 (running) on # 2 of server large (active) SCHEDULED
+t:      56714 job   239 on # 2 of server large RUNNING
+t:      56792 job   240 (running) on # 1 of server large (active) SCHEDULED
+t:      56792 job   240 on # 1 of server large RUNNING
+t:      56915 job   227 on # 3 of server medium COMPLETED
+t:      56971 job   233 on # 0 of server large COMPLETED
+t:      56996 job   234 on # 1 of server small COMPLETED
+t:      57019 job   232 on # 0 of server large COMPLETED
+t:      57108 job   241 (running) on # 1 of server small (active) SCHEDULED
+t:      57108 job   241 on # 1 of server small RUNNING
+t:      57131 job   226 on # 1 of server medium COMPLETED
+t:      57346 job   242 (running) on # 3 of server small (active) SCHEDULED
+t:      57346 job   242 on # 3 of server small RUNNING
+t:      57668 job   243 (running) on # 1 of server medium (active) SCHEDULED
+t:      57668 job   243 on # 1 of server medium RUNNING
+t:      57987 job   244 (running) on # 1 of server medium (active) SCHEDULED
+t:      57987 job   244 on # 1 of server medium RUNNING
+t:      58027 job   230 on # 2 of server medium COMPLETED
+t:      58307 job   245 (running) on # 2 of server medium (active) SCHEDULED
+t:      58307 job   245 on # 2 of server medium RUNNING
+t:      58461 job   246 (running) on # 2 of server small (active) SCHEDULED
+t:      58461 job   246 on # 2 of server small RUNNING
+t:      58546 job   247 (running) on # 3 of server medium (active) SCHEDULED
+t:      58546 job   247 on # 3 of server medium RUNNING
+t:      58565 job   239 on # 2 of server large COMPLETED
+t:      58622 job   248 (running) on # 3 of server medium (active) SCHEDULED
+t:      58622 job   248 on # 3 of server medium RUNNING
+t:      58685 job   249 (running) on # 0 of server medium (active) SCHEDULED
+t:      58685 job   249 on # 0 of server medium RUNNING
+t:      58751 job   241 on # 1 of server small COMPLETED
+t:      58872 job   250 (running) on # 1 of server small (active) SCHEDULED
+t:      58872 job   250 on # 1 of server small RUNNING
+t:      59042 job   235 on # 0 of server medium COMPLETED
+t:      59151 job   251 (running) on # 0 of server medium (active) SCHEDULED
+t:      59151 job   251 on # 0 of server medium RUNNING
+t:      59274 job   252 (running) on # 0 of server large (active) SCHEDULED
+t:      59274 job   252 on # 0 of server large RUNNING
+t:      59325 job   236 on # 1 of server large COMPLETED
+t:      59508 job   253 (running) on # 1 of server large (active) SCHEDULED
+t:      59508 job   253 on # 1 of server large RUNNING
+t:      59631 job   242 on # 3 of server small COMPLETED
+t:      59662 job   254 (running) on # 2 of server large (active) SCHEDULED
+t:      59662 job   254 on # 2 of server large RUNNING
+t:      59673 job   240 on # 1 of server large COMPLETED
+t:      59718 job   255 (running) on # 3 of server small (active) SCHEDULED
+t:      59718 job   255 on # 3 of server small RUNNING
+t:      59752 job   238 on # 2 of server small COMPLETED
+t:      59809 job   256 (running) on # 1 of server large (active) SCHEDULED
+t:      59809 job   256 on # 1 of server large RUNNING
+t:      59811 job   237 on # 0 of server small COMPLETED
+t:      60043 job   249 on # 0 of server medium COMPLETED
+t:      60063 job   248 on # 3 of server medium COMPLETED
+t:      60089 job   247 on # 3 of server medium COMPLETED
+t:      60090 job   243 on # 1 of server medium COMPLETED
+t:      60227 job   257 (running) on # 0 of server small (active) SCHEDULED
+t:      60227 job   257 on # 0 of server small RUNNING
+t:      60276 job   258 (running) on # 0 of server medium (active) SCHEDULED
+t:      60276 job   258 on # 0 of server medium RUNNING
+t:      60467 job   259 (running) on # 3 of server medium (active) SCHEDULED
+t:      60467 job   259 on # 3 of server medium RUNNING
+t:      60830 job   253 on # 1 of server large COMPLETED
+t:      60942 job   260 (running) on # 1 of server large (active) SCHEDULED
+t:      60942 job   260 on # 1 of server large RUNNING
+t:      61157 job   250 on # 1 of server small COMPLETED
+t:      61188 job   261 (running) on # 3 of server large (active) SCHEDULED
+t:      61188 job   261 on # 3 of server large RUNNING
+t:      61191 job   255 on # 3 of server small COMPLETED
+t:      61203 job   244 on # 1 of server medium COMPLETED
+t:      61273 job   262 (running) on # 1 of server medium (active) SCHEDULED
+t:      61273 job   262 on # 1 of server medium RUNNING
+t:      61344 job   246 on # 2 of server small COMPLETED
+t:      61359 job   254 on # 2 of server large COMPLETED
+t:      61363 job   245 on # 2 of server medium COMPLETED
+t:      61380 job   263 (running) on # 1 of server small (active) SCHEDULED
+t:      61380 job   263 on # 1 of server small RUNNING
+t:      61383 job   264 (running) on # 1 of server small (active) SCHEDULED
+t:      61383 job   264 on # 1 of server small RUNNING
+t:      61392 job   252 on # 0 of server large COMPLETED
+t:      61633 job   265 (running) on # 2 of server small (active) SCHEDULED
+t:      61633 job   265 on # 2 of server small RUNNING
+t:      61718 job   266 (running) on # 3 of server small (active) SCHEDULED
+t:      61718 job   266 on # 3 of server small RUNNING
+t:      62023 job   267 (running) on # 2 of server medium (active) SCHEDULED
+t:      62023 job   267 on # 2 of server medium RUNNING
+t:      62186 job   268 (running) on # 0 of server large (active) SCHEDULED
+t:      62186 job   268 on # 0 of server large RUNNING
+t:      62263 job   269 (running) on # 2 of server small (active) SCHEDULED
+t:      62263 job   269 on # 2 of server small RUNNING
+t:      62351 job   270 (running) on # 1 of server medium (active) SCHEDULED
+t:      62351 job   270 on # 1 of server medium RUNNING
+t:      62376 job   271 (running) on # 0 of server large (active) SCHEDULED
+t:      62376 job   271 on # 0 of server large RUNNING
+t:      62441 job   257 on # 0 of server small COMPLETED
+t:      62576 job   251 on # 0 of server medium COMPLETED
+t:      62758 job   272 (running) on # 0 of server small (active) SCHEDULED
+t:      62758 job   272 on # 0 of server small RUNNING
+t:      62776 job   259 on # 3 of server medium COMPLETED
+t:      62782 job   273 (running) on # 2 of server large (active) SCHEDULED
+t:      62782 job   273 on # 2 of server large RUNNING
+t:      62911 job   258 on # 0 of server medium COMPLETED
+t:      62925 job   265 on # 2 of server small COMPLETED
+t:      63039 job   256 on # 1 of server large COMPLETED
+t:      63226 job   274 (running) on # 0 of server medium (active) SCHEDULED
+t:      63226 job   274 on # 0 of server medium RUNNING
+t:      63454 job   263 on # 1 of server small COMPLETED
+t:      63538 job   268 on # 0 of server large COMPLETED
+t:      63604 job   275 (running) on # 3 of server medium (active) SCHEDULED
+t:      63604 job   275 on # 3 of server medium RUNNING
+t:      63755 job   276 (running) on # 0 of server large (active) SCHEDULED
+t:      63755 job   276 on # 0 of server large RUNNING
+t:      64102 job   264 on # 1 of server small COMPLETED
+t:      64124 job   261 on # 3 of server large COMPLETED
+t:      64286 job   266 on # 3 of server small COMPLETED
+t:      64306 job   277 (running) on # 1 of server large (active) SCHEDULED
+t:      64306 job   277 on # 1 of server large RUNNING
+t:      64339 job   260 on # 1 of server large COMPLETED
+t:      64380 job   278 (running) on # 3 of server large (active) SCHEDULED
+t:      64380 job   278 on # 3 of server large RUNNING
+t:      64595 job   273 on # 2 of server large COMPLETED
+t:      64742 job   274 on # 0 of server medium COMPLETED
+t:      64756 job   279 (running) on # 0 of server medium (active) SCHEDULED
+t:      64756 job   279 on # 0 of server medium RUNNING
+t:      64763 job   271 on # 0 of server large COMPLETED
+t:      64783 job   262 on # 1 of server medium COMPLETED
+t:      64903 job   267 on # 2 of server medium COMPLETED
+t:      64993 job   280 (running) on # 1 of server medium (active) SCHEDULED
+t:      64993 job   280 on # 1 of server medium RUNNING
+t:      65168 job   281 (running) on # 1 of server small (active) SCHEDULED
+t:      65168 job   281 on # 1 of server small RUNNING
+t:      65261 job   269 on # 2 of server small COMPLETED
+t:      65276 job   282 (running) on # 1 of server small (active) SCHEDULED
+t:      65276 job   282 on # 1 of server small RUNNING
+t:      65293 job   283 (running) on # 2 of server medium (active) SCHEDULED
+t:      65293 job   283 on # 2 of server medium RUNNING
+t:      65321 job   284 (running) on # 2 of server small (active) SCHEDULED
+t:      65321 job   284 on # 2 of server small RUNNING
+t:      65368 job   285 (running) on # 3 of server small (active) SCHEDULED
+t:      65368 job   285 on # 3 of server small RUNNING
+t:      65475 job   286 (running) on # 0 of server large (active) SCHEDULED
+t:      65475 job   286 on # 0 of server large RUNNING
+t:      65608 job   277 on # 1 of server large COMPLETED
+t:      65638 job   270 on # 1 of server medium COMPLETED
+t:      65774 job   272 on # 0 of server small COMPLETED
+t:      65820 job   287 (running) on # 1 of server large (active) SCHEDULED
+t:      65820 job   287 on # 1 of server large RUNNING
+t:      66209 job   288 (running) on # 2 of server large (active) SCHEDULED
+t:      66209 job   288 on # 2 of server large RUNNING
+t:      66621 job   276 on # 0 of server large COMPLETED
+t:      67019 job   284 on # 2 of server small COMPLETED
+t:      67137 job   289 (waiting) on # 0 of server large (active) SCHEDULED
+t:      67186 job   275 on # 3 of server medium COMPLETED
+t:      67246 job   279 on # 0 of server medium COMPLETED
+t:      67307 job   287 on # 1 of server large COMPLETED
+t:      67588 job   286 on # 0 of server large COMPLETED
+t:      67588 job   289 on # 0 of server large RUNNING
+t:      67653 job   282 on # 1 of server small COMPLETED
+t:      67736 job   290 (running) on # 0 of server small (active) SCHEDULED
+t:      67736 job   290 on # 0 of server small RUNNING
+t:      67760 job   278 on # 3 of server large COMPLETED
+t:      67769 job   281 on # 1 of server small COMPLETED
+t:      67924 job   283 on # 2 of server medium COMPLETED
+t:      67940 job   291 (running) on # 1 of server small (active) SCHEDULED
+t:      67940 job   291 on # 1 of server small RUNNING
+t:      67988 job   292 (running) on # 0 of server medium (active) SCHEDULED
+t:      67988 job   292 on # 0 of server medium RUNNING
+t:      68149 job   293 (running) on # 2 of server medium (active) SCHEDULED
+t:      68149 job   293 on # 2 of server medium RUNNING
+t:      68382 job   280 on # 1 of server medium COMPLETED
+t:      68412 job   294 (running) on # 0 of server small (active) SCHEDULED
+t:      68412 job   294 on # 0 of server small RUNNING
+t:      68791 job   285 on # 3 of server small COMPLETED
+t:      68893 job   295 (running) on # 1 of server medium (active) SCHEDULED
+t:      68893 job   295 on # 1 of server medium RUNNING
+t:      69172 job   296 (running) on # 3 of server medium (active) SCHEDULED
+t:      69172 job   296 on # 3 of server medium RUNNING
+t:      69217 job   297 (running) on # 2 of server small (active) SCHEDULED
+t:      69217 job   297 on # 2 of server small RUNNING
+t:      69256 job   288 on # 2 of server large COMPLETED
+t:      69401 job   293 on # 2 of server medium COMPLETED
+t:      69592 job   298 (running) on # 3 of server small (active) SCHEDULED
+t:      69592 job   298 on # 3 of server small RUNNING
+t:      69718 job   299 (running) on # 3 of server small (active) SCHEDULED
+t:      69718 job   299 on # 3 of server small RUNNING
+t:      70029 job   300 (running) on # 2 of server medium (active) SCHEDULED
+t:      70029 job   300 on # 2 of server medium RUNNING
+t:      70344 job   291 on # 1 of server small COMPLETED
+t:      70350 job   301 (running) on # 1 of server small (active) SCHEDULED
+t:      70350 job   301 on # 1 of server small RUNNING
+t:      70693 job   302 (running) on # 0 of server medium (active) SCHEDULED
+t:      70693 job   302 on # 0 of server medium RUNNING
+t:      70812 job   292 on # 0 of server medium COMPLETED
+t:      70946 job   290 on # 0 of server small COMPLETED
+t:      71014 job   303 (running) on # 0 of server medium (active) SCHEDULED
+t:      71014 job   303 on # 0 of server medium RUNNING
+t:      71120 job   289 on # 0 of server large COMPLETED
+t:      71255 job   296 on # 3 of server medium COMPLETED
+t:      71322 job   300 on # 2 of server medium COMPLETED
+t:      71333 job   304 (running) on # 2 of server medium (active) SCHEDULED
+t:      71333 job   304 on # 2 of server medium RUNNING
+t:      71344 job   305 (running) on # 0 of server small (active) SCHEDULED
+t:      71344 job   305 on # 0 of server small RUNNING
+t:      71416 job   294 on # 0 of server small COMPLETED
+t:      71631 job   306 (running) on # 0 of server small (active) SCHEDULED
+t:      71631 job   306 on # 0 of server small RUNNING
+t:      71688 job   295 on # 1 of server medium COMPLETED
+t:      72112 job   307 (running) on # 1 of server medium (active) SCHEDULED
+t:      72112 job   307 on # 1 of server medium RUNNING
+t:      72464 job   308 (running) on # 2 of server medium (active) SCHEDULED
+t:      72464 job   308 on # 2 of server medium RUNNING
+t:      72472 job   297 on # 2 of server small COMPLETED
+t:      72690 job   304 on # 2 of server medium COMPLETED
+t:      72734 job   299 on # 3 of server small COMPLETED
+t:      72785 job   298 on # 3 of server small COMPLETED
+t:      72826 job   309 (running) on # 2 of server small (active) SCHEDULED
+t:      72826 job   309 on # 2 of server small RUNNING
+t:      72932 job   306 on # 0 of server small COMPLETED
+t:      73107 job   310 (running) on # 0 of server small (active) SCHEDULED
+t:      73107 job   310 on # 0 of server small RUNNING
+t:      73218 job   302 on # 0 of server medium COMPLETED
+t:      73363 job   311 (running) on # 3 of server medium (active) SCHEDULED
+t:      73363 job   311 on # 3 of server medium RUNNING
+t:      73492 job   301 on # 1 of server small COMPLETED
+t:      73696 job   303 on # 0 of server medium COMPLETED
+t:      73764 job   312 (running) on # 0 of server medium (active) SCHEDULED
+t:      73764 job   312 on # 0 of server medium RUNNING
+t:      73903 job   313 (running) on # 0 of server large (active) SCHEDULED
+t:      73903 job   313 on # 0 of server large RUNNING
+t:      74342 job   314 (running) on # 1 of server large (active) SCHEDULED
+t:      74342 job   314 on # 1 of server large RUNNING
+t:      74512 job   315 (running) on # 2 of server large (active) SCHEDULED
+t:      74512 job   315 on # 2 of server large RUNNING
+t:      74575 job   310 on # 0 of server small COMPLETED
+t:      74614 job   316 (running) on # 3 of server large (active) SCHEDULED
+t:      74614 job   316 on # 3 of server large RUNNING
+t:      74821 job   308 on # 2 of server medium COMPLETED
+t:      74839 job   317 (running) on # 2 of server medium (active) SCHEDULED
+t:      74839 job   317 on # 2 of server medium RUNNING
+t:      74939 job   305 on # 0 of server small COMPLETED
+t:      75399 job   311 on # 3 of server medium COMPLETED
+t:      75442 job   318 (running) on # 0 of server small (active) SCHEDULED
+t:      75442 job   318 on # 0 of server small RUNNING
+t:      75685 job   314 on # 1 of server large COMPLETED
+t:      75702 job   307 on # 1 of server medium COMPLETED
+t:      75778 job   319 (running) on # 1 of server medium (active) SCHEDULED
+t:      75778 job   319 on # 1 of server medium RUNNING
+t:      75921 job   316 on # 3 of server large COMPLETED
+t:      76043 job   320 (running) on # 1 of server large (active) SCHEDULED
+t:      76043 job   320 on # 1 of server large RUNNING
+t:      76209 job   309 on # 2 of server small COMPLETED
+t:      76318 job   313 on # 0 of server large COMPLETED
+t:      76355 job   312 on # 0 of server medium COMPLETED
+t:      76440 job   321 (running) on # 0 of server medium (active) SCHEDULED
+t:      76440 job   321 on # 0 of server medium RUNNING
+t:      76686 job   322 (running) on # 3 of server medium (active) SCHEDULED
+t:      76686 job   322 on # 3 of server medium RUNNING
+t:      76774 job   323 (running) on # 1 of server small (active) SCHEDULED
+t:      76774 job   323 on # 1 of server small RUNNING
+t:      76847 job   315 on # 2 of server large COMPLETED
+t:      76998 job   324 (running) on # 0 of server large (active) SCHEDULED
+t:      76998 job   324 on # 0 of server large RUNNING
+t:      77218 job   319 on # 1 of server medium COMPLETED
+t:      77269 job   325 (running) on # 1 of server medium (active) SCHEDULED
+t:      77269 job   325 on # 1 of server medium RUNNING
+t:      77306 job   326 (running) on # 2 of server small (active) SCHEDULED
+t:      77306 job   326 on # 2 of server small RUNNING
+t:      77564 job   327 (running) on # 0 of server large (active) SCHEDULED
+t:      77564 job   327 on # 0 of server large RUNNING
+t:      77751 job   320 on # 1 of server large COMPLETED
+t:      77783 job   328 (running) on # 0 of server small (active) SCHEDULED
+t:      77783 job   328 on # 0 of server small RUNNING
+t:      77788 job   317 on # 2 of server medium COMPLETED
+t:      77835 job   329 (running) on # 2 of server medium (active) SCHEDULED
+t:      77835 job   329 on # 2 of server medium RUNNING
+t:      77887 job   330 (running) on # 3 of server small (active) SCHEDULED
+t:      77887 job   330 on # 3 of server small RUNNING
+t:      78160 job   331 (running) on # 1 of server large (active) SCHEDULED
+t:      78160 job   331 on # 1 of server large RUNNING
+t:      78305 job   332 (running) on # 2 of server medium (active) SCHEDULED
+t:      78305 job   332 on # 2 of server medium RUNNING
+t:      78648 job   318 on # 0 of server small COMPLETED
+t:      78789 job   333 (running) on # 0 of server small (active) SCHEDULED
+t:      78789 job   333 on # 0 of server small RUNNING
+t:      79078 job   324 on # 0 of server large COMPLETED
+t:      79163 job   334 (running) on # 0 of server large (active) SCHEDULED
+t:      79163 job   334 on # 0 of server large RUNNING
+t:      79196 job   335 (running) on # 0 of server large (active) SCHEDULED
+t:      79196 job   335 on # 0 of server large RUNNING
+t:      79269 job   326 on # 2 of server small COMPLETED
+t:      79462 job   321 on # 0 of server medium COMPLETED
+t:      79514 job   336 (running) on # 2 of server large (active) SCHEDULED
+t:      79514 job   336 on # 2 of server large RUNNING
+t:      79637 job   329 on # 2 of server medium COMPLETED
+t:      79744 job   331 on # 1 of server large COMPLETED
+t:      79761 job   328 on # 0 of server small COMPLETED
+t:      79761 job   325 on # 1 of server medium COMPLETED
+t:      79929 job   330 on # 3 of server small COMPLETED
+t:      79969 job   327 on # 0 of server large COMPLETED
+t:      79971 job   337 (running) on # 1 of server large (active) SCHEDULED
+t:      79971 job   337 on # 1 of server large RUNNING
+t:      79995 job   322 on # 3 of server medium COMPLETED
+t:      80164 job   323 on # 1 of server small COMPLETED
+t:      80298 job   338 (running) on # 1 of server small (active) SCHEDULED
+t:      80298 job   338 on # 1 of server small RUNNING
+t:      80755 job   339 (running) on # 3 of server large (active) SCHEDULED
+t:      80755 job   339 on # 3 of server large RUNNING
+t:      80864 job   333 on # 0 of server small COMPLETED
+t:      80979 job   340 (running) on # 0 of server small (active) SCHEDULED
+t:      80979 job   340 on # 0 of server small RUNNING
+t:      81023 job   335 on # 0 of server large COMPLETED
+t:      81106 job   336 on # 2 of server large COMPLETED
+t:      81239 job   341 (running) on # 2 of server small (active) SCHEDULED
+t:      81239 job   341 on # 2 of server small RUNNING
+t:      81533 job   332 on # 2 of server medium COMPLETED
+t:      81742 job   342 (running) on # 0 of server medium (active) SCHEDULED
+t:      81742 job   342 on # 0 of server medium RUNNING
+t:      82074 job   343 (running) on # 3 of server small (active) SCHEDULED
+t:      82074 job   343 on # 3 of server small RUNNING
+t:      82560 job   344 (running) on # 1 of server medium (active) SCHEDULED
+t:      82560 job   344 on # 1 of server medium RUNNING
+t:      82643 job   345 (running) on # 2 of server medium (active) SCHEDULED
+t:      82643 job   345 on # 2 of server medium RUNNING
+t:      82714 job   334 on # 0 of server large COMPLETED
+t:      82833 job   337 on # 1 of server large COMPLETED
+t:      82836 job   346 (running) on # 1 of server medium (active) SCHEDULED
+t:      82836 job   346 on # 1 of server medium RUNNING
+t:      82904 job   340 on # 0 of server small COMPLETED
+t:      82953 job   338 on # 1 of server small COMPLETED
+t:      83028 job   341 on # 2 of server small COMPLETED
+t:      83152 job   347 (running) on # 0 of server small (active) SCHEDULED
+t:      83152 job   347 on # 0 of server small RUNNING
+t:      83653 job   348 (running) on # 1 of server small (active) SCHEDULED
+t:      83653 job   348 on # 1 of server small RUNNING
+t:      84036 job   339 on # 3 of server large COMPLETED
+t:      84078 job   349 (running) on # 2 of server small (active) SCHEDULED
+t:      84078 job   349 on # 2 of server small RUNNING
+t:      84079 job   343 on # 3 of server small COMPLETED
+t:      84507 job   347 on # 0 of server small COMPLETED
+t:      84605 job   350 (running) on # 0 of server small (active) SCHEDULED
+t:      84605 job   350 on # 0 of server small RUNNING
+t:      84869 job   344 on # 1 of server medium COMPLETED
+t:      84937 job   351 (running) on # 3 of server medium (active) SCHEDULED
+t:      84937 job   351 on # 3 of server medium RUNNING
+t:      84993 job   342 on # 0 of server medium COMPLETED
+t:      85079 job   352 (running) on # 0 of server medium (active) SCHEDULED
+t:      85079 job   352 on # 0 of server medium RUNNING
+t:      85200 job   348 on # 1 of server small COMPLETED
+t:      85426 job   353 (running) on # 0 of server large (active) SCHEDULED
+t:      85426 job   353 on # 0 of server large RUNNING
+t:      85429 job   345 on # 2 of server medium COMPLETED
+t:      85438 job   349 on # 2 of server small COMPLETED
+t:      85840 job   350 on # 0 of server small COMPLETED
+t:      85862 job   354 (running) on # 2 of server medium (active) SCHEDULED
+t:      85862 job   354 on # 2 of server medium RUNNING
+t:      86102 job   355 (running) on # 0 of server small (active) SCHEDULED
+t:      86102 job   355 on # 0 of server small RUNNING
+t:      86358 job   346 on # 1 of server medium COMPLETED
+t:      86514 job   356 (running) on # 1 of server small (active) SCHEDULED
+t:      86514 job   356 on # 1 of server small RUNNING
+t:      86796 job   353 on # 0 of server large COMPLETED
+t:      87108 job   351 on # 3 of server medium COMPLETED
+t:      87516 job   354 on # 2 of server medium COMPLETED
+t:      87954 job   352 on # 0 of server medium COMPLETED
+t:      88311 job   356 on # 1 of server small COMPLETED
+t:      88529 job   355 on # 0 of server small COMPLETED
+# -------------------------------------------------------------------------------------
+# 4 small servers used with a utilisation of 74.89 at the cost of $19.21
+# 4 medium servers used with a utilisation of 77.57 at the cost of $38.68
+# 4 large servers used with a utilisation of 55.70 at the cost of $73.47
+# ==================================== [ Summary ] ====================================
+# actual simulation end time: 88529, #jobs: 357 (failed 0 times)
+# total #servers used: 12, avg util: 69.39% (ef. usage: 69.80%), total cost: $131.37
+# avg waiting time: 7, avg exec time: 2393, avg turnaround time: 2400
